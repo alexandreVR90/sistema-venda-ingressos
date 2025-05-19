@@ -1,0 +1,14 @@
+# Ignorar dependências
+node_modules/
+
+# Ignorar variáveis de ambiente
+.env
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar cache do sistema e editor
+.DS_Store
+.vscode/
+*.swp
+*.swo
